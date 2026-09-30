@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv6jtVZP7mYzlN1EgcySJmbOYY0i6P9pq_QYsvgHjlRg&s=10");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title {
+    color: pink;
+}
